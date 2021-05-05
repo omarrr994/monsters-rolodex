@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/monsters-rolodex/static/css/main.80245bbd.chunk.css",
-    "main.js": "/monsters-rolodex/static/js/main.243aa3f3.chunk.js",
-    "main.js.map": "/monsters-rolodex/static/js/main.243aa3f3.chunk.js.map",
+    "main.js": "/monsters-rolodex/static/js/main.c842f8ef.chunk.js",
+    "main.js.map": "/monsters-rolodex/static/js/main.c842f8ef.chunk.js.map",
     "runtime-main.js": "/monsters-rolodex/static/js/runtime-main.45bfe4e5.js",
     "runtime-main.js.map": "/monsters-rolodex/static/js/runtime-main.45bfe4e5.js.map",
     "static/js/2.e7087746.chunk.js": "/monsters-rolodex/static/js/2.e7087746.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.45bfe4e5.js",
     "static/js/2.e7087746.chunk.js",
     "static/css/main.80245bbd.chunk.css",
-    "static/js/main.243aa3f3.chunk.js"
+    "static/js/main.c842f8ef.chunk.js"
   ]
 }
